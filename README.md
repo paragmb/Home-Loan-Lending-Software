@@ -26,18 +26,20 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use the Home Loan Qualifier application...etc
 Ensure the conda dev environment is activated.
+Using CLI, please run the python file "app.py". 
+When prompted "Enter a file path to a rate-sheet (.csv):" please enter ./data/daily_rate_sheet.csv
+To use the Home Loan Qualifier application...etc
 Please note that the list of qualifying loans will depend on user's credit history, income, loan amount, etc.
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Parag Borkar
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+PMB Inc.
