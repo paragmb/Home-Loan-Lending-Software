@@ -27,10 +27,15 @@ Before running the application first install the following dependencies.
 ## Usage
 
 Ensure the conda dev environment is activated.
-Using CLI, please run the python file "app.py". 
-When prompted "Enter a file path to a rate-sheet (.csv):" please enter ./data/daily_rate_sheet.csv
-To use the Home Loan Qualifier application...etc
-Please note that the list of qualifying loans will depend on user's credit history, income, loan amount, etc.
+
+Using CLI, please run the python file "app.py". When prompted:
+
+```python
+Enter a file path to a rate-sheet (.csv): 
+```
+Please specify "./data/daily_rate_sheet.csv" as the filepath.
+
+User need to be ready with the following information: *credit score*, *current amount of monthly debt*, *total monthly income*, *desired loan amount* and *home value*.
 
 ---
 
