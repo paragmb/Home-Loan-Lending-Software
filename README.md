@@ -42,7 +42,7 @@ User need to be ready with the following information:
 - *desired loan amount*
 - *home value*
 
-User can save the csv file to any desired existing file path.
+User can save the output csv file to any desired existing file path.
 An output csv file [*example_loan_qualifier.csv*] showing a list of qualifying loans for a sample case has been uploaded to the repository.
 
 ---

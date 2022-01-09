@@ -109,7 +109,7 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
+    
     if len(qualifying_loans) > 0:
         a = questionary.confirm("Do you want to save the qualifying loans?").ask()
         if a == True:

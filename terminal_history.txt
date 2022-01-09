@@ -1,47 +1,50 @@
-    1  conda create -n dev python=3.9 anaconda
-    2  conda create -n dev python=3.7 anaconda
-    3  conda init bash
-    4  conda --version
-    5  conda init bash
-    6  conda create -n dev python=3.9 anaconda
-    7  ls
-    8  cd desktop
-    9  ls
-   10  cd FinTech-Workspace
-   11  ls
-   12  cd Python_Project
-   13  ls
-   14  cd Challenges
-   15  git clone https://github.com/paragmb/Module2Challenge.git
-   16  ls
-   17  cd Module2Challenge
-   18  ls
-   19  git status
-   20  git add README.md
-   21  git status
-   22  ls
-   23  git status
-   24  git add app.py
-   25  git add data/
-   26  git add qualifier/
-   27  git status
-   28  git commit -m "<Modified README.md and added the starter code files.>"
-   29  git status
-   30  git push
-   31  history 50 > terminal_history.txt
-   32  ls
-   33  git status
-   34  git add terminal_history.txt
-   35  git status
-   36  git commit -m "<Terminal history for session 01/08/2022>"
-   37  git push
-   38  conda activate dev
-   39  python app.py
-   40  git status
-   41  git status
-   42  git add README.md app.py
    43  git  status
    44  git commit -m "<Added new function save_qualifying_loans to app.py and modified README.md>"
    45  git status
    46  git push
    47  history 50 > terminal_history.txt
+   48  git status
+   49  git add terminal_history.txt
+   50  git status
+   51  git commit -m "<Terminal history after morning session on 01/09/2022>"
+   52  git status
+   53  git push
+   54  python app.py
+   55  python app.py
+   56  python app.py
+   57  python app.py
+   58  python app.py
+   59  python app.py
+   60  python app.py
+   61  python app.py
+   62  python app.py
+   63  git status
+   64  git add app.py
+   65  git status
+   66  git commit -m "<Added new function save_csv>"
+   67  git status
+   68  git push
+   69  git status
+   70  git add example_loan_qualifier.csv
+   71  git status
+   72  git commit -m "<sample output csv file showing list of qualifying loans via app.py>"
+   73  git push
+   74  git status
+   75  git add README.md
+   76  git status
+   77  git commit -m "<Updated README.md to include app.py usage.>"
+   78  git push
+   79  git status
+   80  git add README.md
+   81  git status
+   82  git commit -m "<Updated README.md to include app.py usage>"
+   83  git push
+   84  git status
+   85  git add README.md
+   86  git status
+   87  git commit -m "<Updated README.md to include app.py usage>"
+   88  git push
+   89  python app.py
+   90  python app.py
+   91  python app.py
+   92  history 50 > terminal_history.txt
