@@ -33,7 +33,7 @@ Using CLI, please run the python file "app.py". When prompted:
 ```python
 Enter a file path to a rate-sheet (.csv): 
 ```
-Please specify "./data/daily_rate_sheet.csv" as the filepath.
+Please specify **./data/daily_rate_sheet.csv** as the file path.
 
 User need to be ready with the following information: 
 - *credit score* 
@@ -42,6 +42,7 @@ User need to be ready with the following information:
 - *desired loan amount*
 - *home value*
 
+User can save the csv file to any desired existing file path.
 An output csv file [*example_loan_qualifier.csv*] showing a list of qualifying loans for a sample case has been uploaded to the repository.
 
 ---
