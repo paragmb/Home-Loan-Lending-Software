@@ -29,3 +29,19 @@
    29  git status
    30  git push
    31  history 50 > terminal_history.txt
+   32  ls
+   33  git status
+   34  git add terminal_history.txt
+   35  git status
+   36  git commit -m "<Terminal history for session 01/08/2022>"
+   37  git push
+   38  conda activate dev
+   39  python app.py
+   40  git status
+   41  git status
+   42  git add README.md app.py
+   43  git  status
+   44  git commit -m "<Added new function save_qualifying_loans to app.py and modified README.md>"
+   45  git status
+   46  git push
+   47  history 50 > terminal_history.txt
