@@ -35,7 +35,14 @@ Enter a file path to a rate-sheet (.csv):
 ```
 Please specify "./data/daily_rate_sheet.csv" as the filepath.
 
-User need to be ready with the following information: *credit score*, *current amount of monthly debt*, *total monthly income*, *desired loan amount* and *home value*.
+User need to be ready with the following information: 
+- *credit score* 
+- *current amount of monthly debt* 
+- *total monthly income* 
+- *desired loan amount*
+- *home value*
+
+An output csv file [*example_loan_qualifier.csv*] showing a list of qualifying loans for a sample case has been uploaded to the repository.
 
 ---
 
